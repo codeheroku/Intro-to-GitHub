@@ -1,0 +1,75 @@
+body {
+  background: rgba(250, 160, 100, .2);
+}
+
+.wrapper {
+  width: 90%;
+  margin: 0 auto;
+  background-image: url("http://bestanimations.com/Books/pretty-book-bench-nature-water-outdoors-animated-gif.gif");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover;
+  background-origin: padding-box;
+  box-shadow: 7px 0px 10px rgba(0, 0, 0, .3), -7px 0px 10px rgba(0, 0, 0, .3);
+}
+
+#headerImage img {
+  width: 120px;
+  height: 110px;
+  border: 12px solid rgba(200, 80, 70, .3);
+  border-radius: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+
+.store {
+  background: rgba(40, 80, 100, .2);
+}
+
+h1 {
+  text-align: center;
+  font-family: Monospace;
+  display: block;
+  color: #fff;
+  font-size: 48px;
+  background: #8a6f3a;
+  width: 340px;
+  margin: auto;
+}
+
+nav {
+  text-align: center;
+  margin: 25px;
+}
+
+nav a {
+  text-align: center;
+  padding: .7% 2%;
+  margin: 1.5% 1%;
+  text-decoration: none;
+  background-color: rgba(200, 80, 70, .7);
+  color: white;
+  display: inline block;
+}
+
+nav a:hover {
+  box-shadow: 0 1px 1px #fff;
+  text-shadow: 0 1px 1px #fff;
+}
+
+section {
+  padding: 1%;
+  background: rgba(200, 120, 40, .45);
+  text-align: center;
+  font-size: 18px;
+}
+
+h2 {
+  font-size: 30px;
+  font-family: Helvetica, cursive;
+  color: #fff;
+}
