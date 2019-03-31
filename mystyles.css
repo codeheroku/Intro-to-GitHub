@@ -5,7 +5,8 @@ body {
 .wrapper {
   width: 90%;
   margin: 0 auto;
-  background-repeat: no-repeat;
+  background-image: url("http://bestanimations.com/Books/pretty-book-bench-nature-water-outdoors-animated-gif.gif");
+
   background-position: center;
   background-attachment: fixed;
   background-size: cover;
