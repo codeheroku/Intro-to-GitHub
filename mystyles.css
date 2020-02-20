@@ -63,7 +63,7 @@ nav a:hover {
 section {
   padding: 1%;
   background: rgba(200, 120, 40, .45);
-  text-align: center;
+  text-align: bottom;
   font-size: 18px;
 }
 
